@@ -1,4 +1,4 @@
-# 🎮 Florian's 3D Platformer Game
+# 🎮 Coin Quest
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ## 🎯 Overview
 
-**Florian's 3D Platformer** is a fully-featured 3D platformer game demonstrating advanced Unity game development practices. The project showcases a complete game loop with intuitive player controls, dynamic enemy behaviors, collectible mechanics, and seamless level progression. Built with Unity 2022.3.26f1 and Universal Render Pipeline (URP), this game serves as a comprehensive example of modern 3D game development workflows.
+**Coin Quest** is a fully-featured 3D platformer game demonstrating advanced Unity game development practices. The project showcases a complete game loop with intuitive player controls, dynamic enemy behaviors, collectible mechanics, and seamless level progression. Built with Unity 2022.3.26f1 and Universal Render Pipeline (URP), this game serves as a comprehensive example of modern 3D game development workflows.
 
 The game features a responsive physics-based movement system, intelligent waypoint-based enemy AI, interactive platform mechanics, and a polished audio-visual experience. Each system is modularly designed, making the codebase maintainable and extensible for future enhancements.
 
@@ -455,7 +455,7 @@ transform.Rotate(360 * speedx * Time.deltaTime, 360 * speedy * Time.deltaTime, 3
 ## 📁 Project Structure
 
 ```
-Florian-s-3D-game/
+Coin-Quest-A-3D-Platformer-ProtoType/
 │
 ├── Assets/
 │   ├── CasualGameBGM05/          # Audio assets (BGM and SFX)
@@ -530,7 +530,7 @@ Florian-s-3D-game/
 1. **Clone or Download the Repository**
    ```bash
    git clone [repository-url]
-   cd Florian-s-3D-game
+   cd Coin-Quest-A-3D-Platformer-ProtoType
    ```
 
 2. **Open in Unity**
@@ -655,9 +655,13 @@ This project is available for portfolio demonstration purposes. Audio assets are
 
 ## 👤 Author
 
-**Florian** - Game Developer & Unity Enthusiast
-
 *This project demonstrates proficiency in Unity 3D game development, C# programming, game design principles, and software architecture.*
+
+---
+
+## 🙏 Acknowledgments
+
+This project was made with the tutorial of a YouTuber named **Florian**, and I am thankful for his tutorials. He was my 2nd and most favorite teacher in my game dev journey.
 
 ---
 
